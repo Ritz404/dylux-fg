@@ -1,5 +1,5 @@
 { 
-    "name": "dylux-bot",
+    "name": "ritz-bot",
     "version": "3.0.0",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
